@@ -15,6 +15,9 @@ Creating a Pacmen on demand (button click) and move these pacmen across the page
 <br>
 (3) Click on Add PacMan multiple times then click on Start Game. See the PacMen's in action moving across the screen according to the screen boundaries.
 
+## Screenshot
+![PacMen](https://user-images.githubusercontent.com/15187270/112933619-0d452080-90d5-11eb-8981-46fc5b89f66c.JPG)
 
-<h2>Credits</h2>
+
+## Credits
 Thank you MIT for the starter code.
